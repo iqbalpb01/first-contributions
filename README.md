@@ -67,12 +67,12 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
-## Fork this repository
+## Fork this Repository
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-## Clone the repository
+## Clone the Repository
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
@@ -93,7 +93,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
 
-## Create a branch
+## Create a Branch
 
 Change to the repository directory on your computer (if you are not already there):
 
