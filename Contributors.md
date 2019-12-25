@@ -1,4 +1,4 @@
-# Contributors
+### Contributors
 
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Cedrik Boudreau] (https://github.com/cedriking)
