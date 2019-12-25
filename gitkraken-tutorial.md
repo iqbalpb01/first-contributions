@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# First Contributions
+### First Contributions
 
 |<img alt="GitKraken" src="/assets/gk-icon.png" width="200">|GitKraken Edition|
 |---|---|
